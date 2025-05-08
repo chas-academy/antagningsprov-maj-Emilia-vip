@@ -1,12 +1,11 @@
 
 
 function uppg1(){
-
-    // Skriv ut texten "Hello World!" i konsolen
-    
-
-    
+    Class HelloWorld {
+public static void main(String[] args) {
+        System.out.println("Hello, World"); 
     }
+}
 
 
     module.exports = { uppg1 };
