@@ -1,5 +1,3 @@
-
-
 function uppg8(){
 const personer = [
   {name: "Emilia", age: 21},
