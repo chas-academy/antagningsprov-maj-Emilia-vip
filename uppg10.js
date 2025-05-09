@@ -17,7 +17,6 @@ return {
     smallOdd,
     other
   };
-}
-  
+} 
   module.exports = { uppg10 };
   
