@@ -1,5 +1,3 @@
-
-
 function uppg9 (){
 const numbers = [4,7,10,13,22,5];
 
@@ -11,5 +9,4 @@ for (let num of numbers) {
     }
   } 
 }
-
 module.exports = { uppg9 };
