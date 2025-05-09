@@ -6,5 +6,4 @@ const names = ["Emilia", "Filip","Ellen","Frank","Ella"];
         console.log(name);
     }
 }
-
 module.exports = { uppg6 };
