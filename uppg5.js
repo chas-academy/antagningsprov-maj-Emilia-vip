@@ -9,5 +9,4 @@ if (a>b) {
     console.log("Det andra talet är större än det första");
   }
 }
-
 module.exports = { uppg5 };
