@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Videolänk</title>
+</head>
+<body>
+
+  <div id="video-länk"></div>
+
+  <script>
+    document.getElementById("video-länk").innerHTML =
+      '<a href="https://www.youtube.com/watch?v=DUzk9tn8BRw" target="_blank">Se videon</a>';
+  </script>
+
+</body>
+</html>
+
